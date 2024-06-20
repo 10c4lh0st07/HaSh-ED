@@ -8,6 +8,39 @@ HaSh ED is written in Python and uses the built-in hashlib library for hash gene
 
 Whether you're a security professional, a developer, or just someone looking to protect their passwords, HaSh ED is a simple and effective tool for managing your password hashes.
 
+# Installation 
+
+Termux (Android):
+
+Open Termux and update the package list: pkg update
+Install the required packages: pkg install python git
+Clone the HaSh ED repository: git clone https://github.com/10c4lh0st07/HaSh-ED/
+Change into the cloned repository: cd Hash-ED
+Install the required Python packages: pip install -r requirements.txt
+Run the tool: python3 main.py.py
+
+Linux (Ubuntu/Debian-based):
+
+
+Open a terminal and update the package list: sudo apt update
+Install the required packages: sudo apt install python3 git
+Clone the HaSh ED repository: git clone https://github.com/10c4lh0st07/HaSh-ED/
+Change into the cloned repository: cd Hash-ED
+Install the required Python packages: pip3 install -r requirements.txt
+Run the tool: python3 main.py
+
+
+Windows (with Git Bash):
+
+Open Git Bash and update the package list: git update
+Install the required packages: pip install git
+Clone the HaSh ED repository: git clone https://github.com/10c4lh0st07/HaSh-ED/
+Change into the cloned repository: cd Hash-ED
+Install the required Python packages: pip install -r requirements.txt
+Run the tool: python3 main.py
+
+Note: Make sure you have Python 3.x installed on your system, as the tool is written in Python 3.x. Also, ensure that you have the necessary permissions to install packages and run the tool.
+
 # contact
 
 Author: LocalHost.07 
