@@ -7,3 +7,15 @@ The tool features a user-friendly interface, with clear instructions and color-c
 HaSh ED is written in Python and uses the built-in hashlib library for hash generation and cracking. It is compatible with Python 3.x and requires no external dependencies.
 
 Whether you're a security professional, a developer, or just someone looking to protect their passwords, HaSh ED is a simple and effective tool for managing your password hashes.
+
+# contact
+
+Author: LocalHost.07 
+
+Copyright: 2024 LocalHost.07.
+
+All rights reserved.
+
+Contact: Want to get in touch or learn more about my projects? 
+
+Follow me on Instagram: @h3r.10c4lh0st.07
